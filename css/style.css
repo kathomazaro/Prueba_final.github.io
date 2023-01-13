@@ -41,6 +41,23 @@ body::-webkit-scrollbar-thumb {
 /* ------------------------------------my tyles---------------------------------------- */
 /* -----------------------SECCION-LAT---------------------- */
 
+/* ----------NOTICIA------ */
+
+.boton_clasf {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    gap: 10px;
+}
+
+.iten_button {
+    background-color: var(--third-color);
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
 /* -------------TARGET----------- */
 
 .Content_lat {
